@@ -1,4 +1,4 @@
-package com.marakana.java.android.parser;
+package com.marakana.android.parser;
 import java.util.List;
 
 public interface FeedParser {

@@ -1,4 +1,4 @@
-package com.marakana.java.android.parser;
+package com.marakana.android.parser;
 public abstract class FeedParserFactory {
 	
 	public static FeedParser getParser(String feedUrl){
